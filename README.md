@@ -8,4 +8,4 @@ Here you will find answers to common questions. Right now there are none, but we
 
 ## Privacy Policy
 
-Follow [this]("https://www.gdprprivacynotice.com/live.php?token=9s0ZPzmC2YFvkjx6NDmXGRD5irLVoZXi") link to see the privacy policy.
+Follow "https://www.gdprprivacynotice.com/live.php?token=9s0ZPzmC2YFvkjx6NDmXGRD5irLVoZXi" to see the privacy policy.
